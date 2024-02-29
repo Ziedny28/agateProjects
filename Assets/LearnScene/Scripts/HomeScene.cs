@@ -12,6 +12,7 @@ public class HomeScene : MonoBehaviour
 
     private void Awake()
     {
+        //from test dummy
         //Set highscore text using 3 method
 
         // method 1 : Static Variable
